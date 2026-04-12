@@ -1,9 +1,4 @@
-# Construction Project Management App
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
-  
-This project is connected to the Convex deployment named [`greedy-spoonbill-43`](https://dashboard.convex.dev/d/greedy-spoonbill-43).
+# PM
   
 ## Project structure
   
@@ -15,7 +10,8 @@ The backend code is in the `convex` directory.
 
 ## App authentication
 
-Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
+[Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in.
+This project is connected to the Convex deployment named [`greedy-spoonbill-43`](https://dashboard.convex.dev/d/greedy-spoonbill-43).
 
 ## Developing and deploying your app
 
